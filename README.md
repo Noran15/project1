@@ -1,11 +1,3 @@
 # project1
-<!DOCTYPE html>
-<html>
-<body>
+![image](https://github.com/Noran15/project1/assets/148496501/fc7b11e2-92d4-4c95-869a-78529b2a15a8)
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-<img src=""C:\Users\maiba\Downloads\download (1).jpg"" alt="Italian Trulli">
-
-</body>
-</html>
